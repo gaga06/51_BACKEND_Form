@@ -1,0 +1,12 @@
+<h1> Bienvenue dans la création d'utilisateurs </h1>
+<h2> Merci de compléter le formulaire ci-dessous en indiquant votre nom d'utilisateur et quelques lignes sur vous</h2><br>
+
+<form action="new" method="post">
+  <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+  Username:<br>
+  <input type="text" name="username"><br><br>
+  Bio:<br>
+  <textarea name="bio" rows="15" cols="90"></textarea><br><br>
+  <input type="submit" value="Sauvegarder"><br>
+</form>
+

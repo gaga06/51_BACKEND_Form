@@ -1,6 +1,6 @@
 #  BACKEND
 
-> Par Gaëlle Gorgori & Thomas Fernandez
+> Par Gaëlle Gorgori 06.62.31.97.81
 
 ## Consignes de l'exercice
 
